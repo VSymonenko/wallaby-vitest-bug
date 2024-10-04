@@ -1,0 +1,11 @@
+{
+  "name": "wallaby-vitest-bug",
+  "version": "1.0.0",
+  "description": "Wallaby not working with vitest 2.1.2",
+  "main": "example.test.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC"
+}
