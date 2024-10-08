@@ -1,3 +1,5 @@
+[fixed](https://github.com/wallabyjs/public/issues/3399)
+
 # Description
 
 Wallaby working not correct when use `Automatic Configuration <project directory>` with vitest@2.1.2.
